@@ -86,7 +86,7 @@ Used to generate final predictions for competition submission.
 
 ---
 
-### Customer_Conversion_Prediction.ipynb
+### notebook.ipynb
 
 Main notebook containing:
 
@@ -98,12 +98,6 @@ Main notebook containing:
 - Model Training
 - Model Evaluation
 - Submission File Generation
-
----
-
-### loadingdata.py
-
-Python script used for reading datasets and performing preliminary data inspection.
 
 ---
 
