@@ -86,12 +86,6 @@ Used to generate final predictions for competition submission.
 
 ---
 
-### sample_submission.csv
-
-Sample file provided by the competition organizers showing the required submission format.
-
----
-
 ### Customer_Conversion_Prediction.ipynb
 
 Main notebook containing:
